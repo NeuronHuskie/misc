@@ -1,0 +1,729 @@
+[
+    {
+        "Available for Agents": 1,
+        "Dates Available": "7-month period",
+        "Description": "ICEP is for Medical-only coverage (MA-only), not MAPD or PDP. The total enrollment period is seven (7) months beginning three (3) months before the individual's entitlement to Medicare Part A or enrollment into Medicare Part B, includes the month Medicare begins, and continues for three (3) additional months. If enrollment is during the three (3) months before the Medicare effective date, the plan effective date will be the same effective date as Medicare; otherwise, the plan effective date will be the first of the month following plan enrollment.",
+        "Election Period": "Initial Coverage Election Period - gaining Medicare A & B at the same time (Medical Coverage)",
+        "Eligible Plans": "MA",
+        "Example Questions": "",
+        "Notes": [
+            "NOT for MAPD or PDP - use IEP for MAPD or PDP"
+        ],
+        "SEP Code": "",
+        "Scenarios": [],
+        "Type": "ICEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "5-month period",
+        "Description": "If a person has Medicare Part A and opted out of Medicare Part B when first eligible and then later enrolled in Part B, the ICEP would occur during the three (3) months prior to the effective date for Part B, the month of until the end of the second month  a five (5) month window. If the beneficiary is adding Part B during the General Enrollment Period Jan. 1 - Mar. 31, or during the Medicare Part B SEP, Part B begins the month following enrollment. The delayed Part B MA/MAPD ICEP election window is the three (3) months before Part B is effective with the MA/MAPD being effective the same month as Part B, or the month of or the month after.",
+        "Election Period": "Delayed Part B while already has Part A",
+        "Eligible Plans": "MA/MAPD",
+        "Example Questions": "",
+        "Notes": [
+            "This also applies to the more rare situation of Delayed Part A.",
+            "NOT for PDP. PDP-only plan NOT eligible under delayed Part B (or Part A))"
+        ],
+        "SEP Code": "",
+        "Scenarios": [],
+        "Type": "ICEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "7-month period",
+        "Description": "This enrollment period is for Part D coverage (MAPD or PDP), not MA-only. The total enrollment period is seven (7) months beginning three (3) months before the effective date of Medicare Part A and B, includes the month Medicare begins, and continues for three (3) additional months. If enrollment is during the three (3) months before the Medicare effective date, the plan effective date will be the first of the month that Medicare is effective; otherwise, the plan effective date will be the first of the month following plan enrollment. IEP is also used for an individual who has resided out of the country during the period of their original Medicare eligibility and is now moving back to the U.S./U.S. Territory, is getting Medicare A and B and wishes to enroll in a MAPD or PDP.",
+        "Election Period": "Initial Election Period - gaining Medicare A & B at the same time (Prescription Coverage)",
+        "Eligible Plans": "MAPD or PDP",
+        "Example Questions": "",
+        "Notes": [
+            "NOT for MA - use ICEP for MA",
+            "***Do NOT use IEP for Delayed Part B (or A) - refer to ICEP***"
+        ],
+        "SEP Code": "",
+        "Scenarios": [],
+        "Type": "IEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "7-month period",
+        "Description": "Beneficiaries with Medicare due to disability (before age 65) will have a second IEP (7-month period) when they turn 65 to change/enroll in a MAPD or PDP. A beneficiary is not required to use the first IEP in order to use the second IEP at age 65.",
+        "Election Period": "Turning 65 if has Medicare due to Disability; a.k.a. 2nd Initial Election (Prescription Coverage)",
+        "Eligible Plans": "MAPD/PDP",
+        "Example Questions": "",
+        "Notes": [
+            "If person had Medicare before age 65, did not have creditable prescription coverage and was subject to the Part D late enrollment penalty then uses the 2nd IEP at their 65th birthday to enroll in Part D (PDP or MAPD), the penalty will no longer apply as long as they keep Part D or creditable prescription coverage.",
+            "NOT for MA-only. Use item J SEP for MA"
+        ],
+        "SEP Code": "",
+        "Scenarios": [],
+        "Type": "IEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "10/15 - 12/07 annually",
+        "Description": "During AEP, beneficiaries may choose how they receive their Medicare benefits for the upcoming year. The last election made, determined by the application date, will be the plan that takes effect on January 1. The Annual Enrollment Period is open for all plan types: MA, MAPD and PDP, but excludes Medicare Supplements.",
+        "Election Period": "AEP - Annual Enrollment Period",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "",
+        "Notes": [],
+        "SEP Code": "",
+        "Scenarios": [],
+        "Type": "AEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "01/01 - 03/31 annually",
+        "Description": "Beneficiaries already enrolled in a Medicare Advantage plan (MA/MAPD) may make one plan change during the first three (3) months of each year (1/1-3/31) to enroll in another Medicare Advantage plan OR to disenroll to obtain Original Medicare (and get a PDP). The effective date will be the first day of the month following receipt of the enrollment or disenrollment request. MA/MAPD member NOT required to have made an election during AEP.",
+        "Election Period": "(MA) OEP - Open Enrollment Period",
+        "Eligible Plans": "MA/MAPD",
+        "Example Questions": "If dissatisfaction expressed, is today's date between 1/1-3/31? Is the beneficiary currently enrolled in a MA/MAPD and not already used OEP election? Check MARx to validate.",
+        "Notes": [
+            "IMPORTANT NOTE: You may NOT engage in activities that intend to target the OEP as an opportunity to make further sales.",
+            "NOT permitted to have Original Medicare to enroll in MA/MAPD or change PDP.",
+            "To disenroll from a MA/MAPD and enroll in a PDP-only, use item Q SEP-OEP."
+        ],
+        "SEP Code": "",
+        "Scenarios": [],
+        "Type": "OEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "The month of Medicare entitlement and for 2 additional months",
+        "Description": "OEP is available to new Medicare Advantage enrollees following IEP/ICEP with their Medicare entitlement. The one-time election begins the month of entitlement (effective date) to Part A and Part B and for two additional months. There are charts at the end of this document illustrating use of OEP following IEP/ICEP (including Delayed A or B).",
+        "Election Period": "(MA) OEP-New - Open Enrollment Period",
+        "Eligible Plans": "MA/MAPD",
+        "Example Questions": "If dissatisfaction expressed, is the beneficiary currently enrolled in a MA/MAPD and is it within the first three (3) months of their Medicare entitlement and not already used OEP election? Check MARx to validate.",
+        "Notes": [
+            "Beneficiaries who wait to use their IEP/ICEP until the month of their Medicare effective date or later during that initial seven-month window will reduce or even forfeit their OEP. NOT eligible for second use with 2nd IEP/ICEP upon turning 65 for those on Medicare due to disability.",
+            "NOT permitted to have Original Medicare to enroll in MA/MAPD or change PDP.",
+            "To disenroll from a MA/MAPD and enroll in a PDP-only, use item Q SEP-OEP."
+        ],
+        "SEP Code": "",
+        "Scenarios": [],
+        "Type": "OEP-New"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "While residing in, or for up to two (2) months after leaving an institution",
+        "Description": "This is an open and unlimited use enrollment period for Medicare beneficiaries residing in an institution lasting for up to two (2) months after leaving the facility. An institution is defined as a skilled nursing facility, nursing home, intermediate care facility for the mentally disabled, psychiatric hospital, rehabilitation hospital or long-term care hospital (it does NOT include assisted living facilities).",
+        "Election Period": "OEP-I - Open Enrollment Institutional",
+        "Eligible Plans": "MA or MAPD",
+        "Example Questions": "Is the beneficiary moving into or is a resident of a skilled a nursing facility or long-term care hospital? Is the beneficiary moving out of such a facility?",
+        "Notes": [
+            "OEP-I is NOT for PDP. For a PDP-only plan, use item R SEP-LTC."
+        ],
+        "SEP Code": "",
+        "Scenarios": [],
+        "Type": "OEP-I"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "SEP available for permanent change of residence. Can complete application the month prior to the permanent move and up to 2 months after the move. The applicant may choose an effective date of up to 3 months after the month in which the enrollment form is received but the effective date may NOT be earlier than the date of permanent move. May enroll in any plan for which the beneficiary is eligible in the new service area, regardless of coverage in former service area. Individuals who move and have new Medicare health or Part D plans available to them as a result of the move, but continue to reside in the current plan service area, may use this SEP to enroll in a different plan. Zip code or county must change.",
+        "Election Period": "Permanent Move out of service area",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "Has the beneficiary recently moved? If so, when? Has the beneficiary been out of the service area more than six (6) months and been disenrolled?",
+        "Notes": [
+            "When a member notifies Customer Service of an address change, generally speaking, the member's plan will terminate at the end of the current month. Check with Customer Service as necessary to verify member's disenrollment date."
+        ],
+        "SEP Code": "MOV",
+        "Scenarios": [
+            "When an individual notifies the plan of a future move date, the SEP begins the month before the individual's permanent move and continues for two (2) additional months.",
+            "When an individual notifies the plan of a past move date, the SEP begins the month the individual notifies the plan and continues for two (2) additional months. The member will be disenrolled from their plan at the end of the current month and will revert back to Original Medicare if they do not enroll in a new plan to be effective the first of the upcoming month."
+        ],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "SEP begins on the start of the 6th month that the beneficiary has been out of the service area and continues through the end of the eighth month. Plan learns beneficiary has moved and the member has been disenrolled. SEP begins the month notification is received and continues for two additional months. Notification may be in the form of a letter or upon realization that disenrollment has occurred.",
+        "Election Period": "Plan learns that individual has been out of the service area more than 6 months and member has been disenrolled",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "Has the beneficiary recently moved? If so, when? Has the beneficiary been out of the service area more than six (6) months and been disenrolled?",
+        "Notes": [],
+        "SEP Code": "MOV",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "SEP begins when the member notifies the plan and continues for two additional months after the month of notification to the plan.",
+        "Election Period": "Member notifies plan that they moved or have been out of service area for 6+ months and have yet to be disenrolled",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "Has the beneficiary recently moved? If so, when? Has the beneficiary been out of the service area more than six (6) months and been disenrolled?",
+        "Notes": [],
+        "SEP Code": "MOV",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "The SEP begins on the actual date of the move or with the date the individual provides notification of such move and continues for two additional calendar months.",
+        "Election Period": "Individuals who were not eligible for a MA or PDP because they had been out of the U.S. and have now moved back",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "",
+        "Notes": [],
+        "SEP Code": "RUS",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "The SEP begins on the actual date of the release from incarceration or with the date the individual provides notification of such move and continues for two additional calendar months.",
+        "Election Period": "Individuals who were incarcerated and now have released",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "",
+        "Notes": [],
+        "SEP Code": "INC",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "This SEP is for individuals who are losing group health coverage (including COBRA). Losses include the individual opting out of the Company/Group coverage during the employer's annual benefit selection season, changes due to life events and discontinuation of employment or the Company/Group ceases to offer group health coverage. It is also for individuals making MA enrollment requests out of employer sponsored MA plan. The individual may choose a plan effective date up to 3 months after the month that the enrollment request was made.",
+        "Election Period": "Employer/Union Group Health Plan (EGHP)",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "Does the beneficiary currently have (or are leaving) coverage offered by an employer or union? Has the beneficiary recently lost such coverage? If so, when?",
+        "Notes": [
+            "This SEP is available while covered by an EGHP and ends two (2) months after the EGHP ends or when the election is used - whichever comes first.",
+            "Individuals with a Humana Group plan should always speak to a Group-certified Agent prior to changing coverage. Individuals enrolled in Group Retirement benefits should check with their plan representatives before changing/opting out as there could be impacts to other aspects of their retirement benefits. Some retirees must enroll via a designated brokerage firm to receive benefits."
+        ],
+        "SEP Code": "LEC",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "Involuntary loss of creditable coverage, including a reduction in the level of coverage so that it is no longer creditable, NOT including any loss or reduction due to a failure to pay premiums. The SEP permits enrollment in a MAPD/PDP and begins with the month in which the individual is advised of the loss of creditable coverage and continues for two additional calendar months after either the loss (or reduction) occurs or the individual received notice, whichever is later. The effective date of this SEP may be the first of the month after the enrollment or, at the beneficiary's request, may be effective no more than three (3) months in the future.",
+        "Election Period": "Involuntary Loss of Creditable Prescription Drug Coverage",
+        "Eligible Plans": "MAPD or PDP",
+        "Example Questions": "Has the beneficiary lost creditable prescription coverage, including a reduction making that coverage no longer creditable? If so, when?",
+        "Notes": [],
+        "SEP Code": "LCC",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "Individuals who elected a MA/MAPD plan during their IEP/ICEP surrounding their 65th birthday have this SEP allowing them to disenroll from the MA/MAPD and return to Original Medicare (with or without a PDP) anytime during the 12-month period that begins on the effective date of coverage in the MA/MAPD plan.",
+        "Election Period": "Enrolled in a MA/MAPD during the IEP/ICEP at 65th birthday and dropping it within 1st 12 months to choose PDP",
+        "Eligible Plans": "PDP only",
+        "Example Questions": "",
+        "Notes": [
+            "Individuals entitled to Medicare prior to age 65 are NOT eligible for this SEP."
+        ],
+        "SEP Code": "12J",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "This SEP is for individuals who dropped a Medicare Supplement (Medigap) plan after enrolling in an MA/MAPD for the first time, and who are still within 12 calendar months of that first MA/MAPD enrollment, i.e., Trial Period. During this Trial Period SEP, the individual can elect to disenroll from the MA/MAPD, return to Original Medicare (with or without a PDP). They will also have guaranteed issue to return to the Medicare Supplement they had before (same Supplement and same company). The effective date would be the first day of the following month of the plan's receipt of the PDP enrollment request.",
+        "Election Period": "Trial Period: Individuals who dropped a Medicare Supplement plan after enrolling in a MA/MAPD for the First Time",
+        "Eligible Plans": "PDP only",
+        "Example Questions": "",
+        "Notes": [
+            "The Trial Right is three (3) years for residents of the state of Maine."
+        ],
+        "SEP Code": "12G",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "Individuals may disenroll from MA/MAPD/PDP at any time to enroll in Program of All-inclusive Care for the Elderly (PACE). Additionally, individuals who disenroll from PACE have a SEP for up to two calendar months after the effective date of the PACE disenrollment to enroll in a MA, MAPD or PDP.",
+        "Election Period": "Program of All-inclusive Care for the Elderly (PACE)",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "Is the beneficiary currently enrolled in a special plan called PACE?",
+        "Notes": [],
+        "SEP Code": "PAC",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "Individuals who belong to a qualified SPAP are eligible for an SEP to make one enrollment request at any time through the end of each calendar year (i.e. once per year). SPAP members may use this SEP to enroll in a Part D plan outside of existing enrollment opportunities, allowing them, for example, to join a Part D plan upon becoming a member of an SPAP or to switch to another Part D plan. A beneficiary may use this SEP to switch from an MAPD plan to another PDP or MAPD plan, from Original Medicare without a PDP to Original Medicare with a PDP or to an MAPD plan, from a PDP to another PDP or MAPD plan or from an MA-only plan to a PDP or MAPD plan. In addition, individuals no longer eligible for SPAP benefits will have an SEP beginning either the month they lose eligibility or are notified of the loss, whichever is earlier, and ends two months after either the month of the loss of eligibility or notification of the loss, whichever is later.",
+        "Election Period": "Qualified State Pharmaceutical Assistance Program (SPAP) Members",
+        "Eligible Plans": "MAPD or PDP",
+        "Example Questions": "Does the beneficiary belong to a qualified SPAP or is no longer eligible for a SPAP?",
+        "Notes": [],
+        "SEP Code": "PAP",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "Individuals enrolled in a PDP or MAPD may disenroll to enroll or maintain other creditable drug (such as TriCare or VA coverage) by using this SEP to enroll in a MA-only plan. The effective date of enrollment is the first day of the month following the month the enrollment request is received by the organization.",
+        "Election Period": "Individuals who disenroll from Part D to enroll in or maintain other creditable coverage",
+        "Eligible Plans": "MA-only",
+        "Example Questions": "Is the beneficiary enrolled in PDP or MAPD and wants MA-only because will be using VA benefits?",
+        "Notes": [
+            "This SEP code had been SEP-OCC. The only change is that it will be SEP-CDC by late December 2024.",
+            "If a PDP member is choosing a MA-only PFFS, they must submit a written request to disenroll from the PDP.",
+            "Individuals who have submitted a written request to disenroll from a Part D plan (PDP or MAPD) to enroll in or maintain other creditable drug coverage (such as TriCare or VA coverage) will have two months following disenrollment of MAPD/PDP to select a MA-only plan."
+        ],
+        "SEP Code": "CDC",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "12/8 - end of Feb.",
+        "Description": "For members of a MA/MAPD/PDP plan that will be affected by contract non-renewal (PLEX - Plan Exit) or service area reduction (plan no longer available in zip or county) for the upcoming plan year. The SEP begins December 8 and ends on the last day of February with effective date the first day of the upcoming month following enrollment. This used to be SEP-NON.",
+        "Election Period": "MA/MAPD/PDP Contract non-renewal of plan effective Jan. 1",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "",
+        "Notes": [
+            "Approved plan consolidations (also known as plan cross-walk or migration) are NOT plan exits, terminations or non-renewals, thus NOT eligible for the SEP for non-renewal."
+        ],
+        "SEP Code": "EOC",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "12/8 - end of Feb.",
+        "Description": "For members of a 1876 Cost Plan that will be affected by contract non-renewal (PLEX - Plan Exit) or service area reduction (plan no longer available in zip or county) for the upcoming plan year. The SEP begins December 8 and ends on the last day of February with effective date the first day of the upcoming month following enrollment.",
+        "Election Period": "1876 Cost Plan Contract non-renewal of plan effective Jan. 1",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "",
+        "Notes": [
+            "Approved plan consolidations (also known as plan cross-walk or migration) are NOT plan exits, terminations or non-renewals, thus NOT eligible for the SEP for non-renewal.",
+            "Enter: Cost Plan exit"
+        ],
+        "SEP Code": "OTH",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "This SEP-MYT exists for members who will be affected by a termination of contract that occurs mid-year. The SEP begins two months before the termination effective date and ends one month after the month of termination.",
+        "Election Period": "Mid-Year Mutual termination of contract with CMS or CMS terminates the plan's contract(s)",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "",
+        "Notes": [
+            "REMINDER: A special communication will be distributed by Sales Compliance and/or your Leadership with the SEP instructions in the event a plan's contract(s) ceases mid-year.",
+            "Follow instructions in the communication with what to 'Specify'/'Note'."
+        ],
+        "SEP Code": "OTH",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "7-month enrollment period",
+        "Description": "An individual eligible for an additional Part D IEP, such as an individual currently entitled to Medicare due to a disability and who is attaining age 65, has a MA SEP-IEP that coordinates with the second Part D IEP. The SEP may be used to enroll in a MA-only plan (regardless of whether the individual uses the Part D IEP to enroll in a PDP). The SEP begins three months before month of 65th birthday, continues through birth month and for three additional months (7-month enrollment period). This SEP is for use one time only per beneficiary.",
+        "Election Period": "2nd ICEP for beneficiaries who have Medicare due to disability upon turning age 65",
+        "Eligible Plans": "MA-only",
+        "Example Questions": "",
+        "Notes": [
+            "Beneficiaries on Medicare due to disability who wish to add/change MAPD/PDP upon turning 65 should use IEP."
+        ],
+        "SEP Code": "MRD",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "CMS provides a SEP for individuals enrolled in a SNP who are no longer eligible for the SNP because they no longer meet the specific special needs status. This SEP begins when the period of deemed continued eligibility starts and ends the earlier of when the beneficiary makes an enrollment request or within three calendar months after the expiration of the period of eligibility.",
+        "Election Period": "Loss of Special Needs Status",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "",
+        "Notes": [],
+        "SEP Code": "SNP",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "SEP-CSN is for those individuals with severe or disabling chronic conditions to enroll in a CC-SNP designed to serve individuals with those conditions. This SEP will apply as long as the individual has the qualifying condition and will end once they enroll in a CC-SNP. Once the SEP ends, they may make enrollment changes only during AEP or other eligible election periods.",
+        "Election Period": "Enrollment into a Chronic Care SNP",
+        "Eligible Plans": "CC-SNP",
+        "Example Questions": "If a CC-SNP is available, does the beneficiary indicate they meet the chronic condition(s) for eligibility? Was the beneficiary disenrolled from CC-SNP either for not meeting the chronic condition or the VCC form was not returned thus beneficiary needs to choose a different plan? Is the beneficiary enrolled in a CC-SNP and wants to change to a CC-SNP focusing on different condition?",
+        "Notes": [
+            "FastApp and Enrollment Hub will change from code from CHR to CSN in mid-December 2024."
+        ],
+        "SEP Code": "CSN",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "After enrollment, Individuals who are found to not have the qualifying condition necessary to enroll in the CC-SNP will have SEP-CSN to enroll in a different plan. This normally occurs when the required post enrollment verification with the provider did not confirm the information provided during the pre-enrollment assessment. This SEP begins when the plan notifies the individual of the lack of eligibility and continues for two additional calendar months. The SEP ends when the individual makes an enrollment election or on the last day of the 2nd month following the notification.",
+        "Election Period": "Individuals found ineligible for a CC-SNP",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "If a CC-SNP is available, does the beneficiary indicate they meet the chronic condition(s) for eligibility? Was the beneficiary disenrolled from CC-SNP either for not meeting the chronic condition or the VCC form was not returned thus beneficiary needs to choose a different plan? Is the beneficiary enrolled in a CC-SNP and wants to change to a CC-SNP focusing on different condition?",
+        "Notes": [
+            "FastApp and Enrollment Hub will change from code from CHR to CSN in mid-December 2024."
+        ],
+        "SEP Code": "CSN",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "Individual is enrolled in a CC-SNP who has a chronic condition which is not the focus of their current CC-SNP is eligible for SEP-CSN. Such individuals have an opportunity to change to a different CC-SNP that focuses on a different chronic condition. Eligibility for this SEP ends at the time the individual enrolls in the new CC-SNP.",
+        "Election Period": "For individuals enrolled in CC-SNP to change to a different CC-SNP focusing on a different condition",
+        "Eligible Plans": "CC-SNP",
+        "Example Questions": "If a CC-SNP is available, does the beneficiary indicate they meet the chronic condition(s) for eligibility? Was the beneficiary disenrolled from CC-SNP either for not meeting the chronic condition or the VCC form was not returned thus beneficiary needs to choose a different plan? Is the beneficiary enrolled in a CC-SNP and wants to change to a CC-SNP focusing on different condition?",
+        "Notes": [
+            "FastApp and Enrollment Hub will change from code from CHR to CSN in mid-December 2024."
+        ],
+        "SEP Code": "CSN",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "Individuals who have Medicare and receive any type of Federal or State assistance from Medicaid or Low Income Subsidy (LIS) a.k.a. Extra Help have a monthly SEP to newly enroll into or change to a different PDP. This coverage is effective the first of the upcoming month.",
+        "Election Period": "Subsidy-Eligible into only a PDP",
+        "Eligible Plans": "PDP only",
+        "Example Questions": "Does the beneficiary currently have Medicaid coverage? Does their state pay for their Medicare premiums? How much do they pay for their prescriptions?",
+        "Notes": [
+            "For use with application date 1/1/2025 and later.",
+            "An individual is not eligible for this SEP if the individual has been identified as an \"at-risk beneficiary or potential at-risk beneficiary\"."
+        ],
+        "SEP Code": "DEP",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "Individuals who Gain, Lose or Have a Change in their Medicaid (Dual Eligible) Status have a SEP which includes those who: Become eligible for any type of assistance from the Title XIX program (including 'partial duals' who receive cost sharing assistance under Medicaid); or Lose eligibility for any type of assistance; or Have a change in the level of assistance they receive (e.g., stop receiving Medicaid benefits, but still qualify for LIS, those who have a change in cost sharing). The SEP allows the individual one opportunity to make an election within three months of any of the changes noted above, or notification of such a change, whichever is later. The effective date for enrollments under this SEP is the first day of the month following receipt of the enrollment request.",
+        "Election Period": "Who Gain, Lose or Have a Change in their Medicaid Status",
+        "Eligible Plans": "MAPD or PDP",
+        "Example Questions": "Did the beneficiary recently receive a letter informing of new eligibility for their state's Medicaid program, a change in Medicaid status or loss of Medicaid eligibility? If so, when?",
+        "Notes": [],
+        "SEP Code": "MCD",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "Individuals who Gain, Lose or Have a Change in their LIS-Eligible Status have a SEP which includes those who: Become eligible for LIS (but who do not receive Medicaid benefits); or Lose eligibility for any type of assistance. The SEP allows the individual one opportunity to make an election within three months of any of the changes noted above, or notification of such a change, whichever is later. The effective date for enrollments under this SEP is the first day of the month following receipt of the enrollment request.",
+        "Election Period": "Who Gain, Lose or Have a Change in their LIS Status",
+        "Eligible Plans": "MAPD or PDP",
+        "Example Questions": "Did the beneficiary recently receive a letter informing of their new eligibility in the Extra Help program, a change in Extra Help level or loss of Extra Help eligibility? If so, when?",
+        "Notes": [
+            "Beneficiaries whose income is up to 150% of FPL will be eligible for LIS."
+        ],
+        "SEP Code": "NLS",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "Individuals who are enrolled into a plan by CMS or a State (i.e., through passive enrollment, auto-enrollment, facilitated enrollment, and reassignment) have a SEP to disenroll from their new plan or enroll into a different plan. The SEP permits a onetime election within three months of the effective date of the assignment, or notification of the assignment, whichever is later. It allows the individual to make an election before the enrollment is effective in the receiving plan or after the coverage in the receiving plan starts. This SEP must be used within three months of the start of coverage in the receiving plan. In the case where the notice is sent after the coverage in the receiving plan starts, the SEP ends three months after the date of the notice. This SEP is provided so that an individual may exercise any mandatory opt-out right provided to the enrollee as part of the CMS or State-initiated enrollment. The effective date for enrollments under this SEP is the first day of the month following receipt of the enrollment request by the plan.",
+        "Election Period": "For CMS and State-Initiated Enrollments (Passive Enrollments, etc.)",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "Has the beneficiary recently received a blue letter (i.e., Reassignment notice) from Medicare? Did the state/plan send them a letter to let them know they are being moved to a different plan? Did the beneficiary recently receive a yellow letter (i.e., Autoenrollment notice) from Medicare? Has the beneficiary recently received a green letter (i.e., Facilitated Enrollment notice) from Medicare?",
+        "Notes": [],
+        "SEP Code": "DIF",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "Beneficiaries already enrolled in a Medicare Advantage plan (MA/MAPD) may make one plan change during the first three (3) months of each year (1/1-3/31) to disenroll from MA/MAPD to return to Original Medicare and get a PDP via SEP-OEP (coordinates with OEP). The effective date will be the first day of the month following receipt of the enrollment or disenrollment request. MA/MAPD members are NOT required to have made an election during AEP. OEP-New is also available as SEP-OEP to new Medicare Advantage enrollees following IEP/ICEP with their Medicare entitlement. The one-time election begins the month of entitlement (effective date) to Part A and Part B and continues for two additional months to drop the MA/MAPD to return to Original Medicare and get a PDP.",
+        "Election Period": "For MA/MAPD to disenroll using the OEP to enroll in a PDP (coordinates with OEP/OEP-New)",
+        "Eligible Plans": "PDP only",
+        "Example Questions": "",
+        "Notes": [
+            "MA-PFFS members will have to submit a written request to disenroll."
+        ],
+        "SEP Code": "OEP",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "A SEP (which coordinates with OEP-I) is provided to an individual who moves into, resides in or moves out of an institution (see definition of 'institutionalized' in 42 CFR 422.2 below). Individuals who move out of one of these facilities have a SEP for up to two (2) calendar months after they move out of the facility to use this SEP. The SEP allows an individual to enroll in or change PDP or disenroll from a MA/MAPD by enrolling in a PDP. Institutionalized means one of these long-term care facility settings: skilled nursing facility (SNF), nursing facility (NF), intermediate care facility for individuals with intellectual and developmental disabilities, psychiatric hospital or unit, rehabilitation hospital or unit, or long-term care hospital.",
+        "Election Period": "Institutionalized Individuals (coordinates with OEP-I)",
+        "Eligible Plans": "PDP only",
+        "Example Questions": "",
+        "Notes": [
+            "Assisted Living Facilities are NOT considered Institutions."
+        ],
+        "SEP Code": "LTC",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "Valid ONLY 1/1 - 5/31",
+        "Description": "SEP-PRE for individuals who are not entitled to premium-free Part A and who enroll in Part B during the General Enrollment Period (GEP) for Part B (Jan.  Mar.). The SEP begins the month of the Part B enrollment request and continues for two additional months. Plan effective date is the first day of the month following enrollment submission.",
+        "Election Period": "Enrolled in Part B during the Part B General Enrollment Period when NOT entitled to free Part A",
+        "Eligible Plans": "MAPD or PDP",
+        "Example Questions": "",
+        "Notes": [],
+        "SEP Code": "OTH",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "This SEP is for non-U.S. citizens who become lawfully present in the United States. The individual may use this SEP to request enrollment in any MA/MAPD/PDP plan for which he or she is eligible. This SEP begins the month the lawful presence starts and continues for two (2) additional calendar months. Applicants are NOT required to provide evidence of U.S. citizenship or lawful presence with the enrollment request and plans are NOT permitted to request/require such documentation.",
+        "Election Period": "Non-U.S. Citizens who become Lawfully Present",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "",
+        "Notes": [],
+        "SEP Code": "LAW",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "Individuals who are involuntarily disenrolled from a MAPD plan due to loss of Part B (failure to pay part B premium), but who continue to be entitled to Part A have a SEP-INV to enroll in a PDP. This SEP begins when the individual is advised of the loss of Part B continues for two (2) additional calendar months.",
+        "Election Period": "PDP SEP for individuals involuntarily disenrolled from a MAPD plan due to loss of Part B",
+        "Eligible Plans": "PDP only",
+        "Example Questions": "",
+        "Notes": [
+            "Enter: Disenrolled from a MAPD due to loss of Part B"
+        ],
+        "SEP Code": "OTH",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "Use ONLY between 12/8 - 11/30",
+        "Description": "A Medicare beneficiary may enroll in a MA/MAPD/PDP that has an overall Plan Rating of five (5) Stars. The plan effective date must be during the year in which that plan has the 5-Star rating and the enrollee must meet all other plan eligibility requirements. This SEP is a one-time use per contract year. The enrollment effective date is the first of the month following the month in which the plan receives the enrollment request.",
+        "Election Period": "To Enroll in a plan with a Five (5) Star Rating",
+        "Eligible Plans": "MA, MAPD or PDP (dependent on what plan(s) are rated 5 Stars)",
+        "Example Questions": "",
+        "Notes": [
+            "There are NO 5-Star Humana nor CarePlus plans for PY2025."
+        ],
+        "SEP Code": "5ST",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "Organizations are required to provide materials in accessible formats (such as Braille, Audio files, etc.). CMS will grant a SEP when the organization or CMS was unable to provide required notices or information in an accessible format, as requested by an individual, within the same timeframe that it was able to provide the same information to individuals who did not request an accessible format. This limited SEP ensures that beneficiaries are not disadvantaged by any additional time necessary to fulfill their request, including missing an election period deadline. The SEP begins at the end of the election period during which the beneficiary was seeking to make an election. The start and length of the SEP, as well as the effective date, are dependent upon the situation, and are at least as long as the time it took for the information to be provided to the individual in an accessible format.",
+        "Election Period": "Individuals who Requested Materials in Accessible Formats Equal Time to Make Enrollment Decisions",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "",
+        "Notes": [
+            "Enrollment and Sales Compliance will be monitoring usage for any signs of misuse."
+        ],
+        "SEP Code": "ACC",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "SEP-REC exists for individuals enrolled in a plan that has been placed into receivership by a state or territorial regulatory authority. The SEP begins the month the receivership is effective and continues until it is no longer in effect or until the enrollee makes an election, whichever is first. When instructed by CMS, the plan placed under receivership must notify its enrollees, in the form and manner directed by CMS, of the enrollees' eligibility for this SEP and how to use the SEP.",
+        "Election Period": "Individuals Enrolled in a Plan Placed in Receivership",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "",
+        "Notes": [
+            "REMINDER: A special communication will be distributed by Sales Compliance and/or your Leadership with the SEP instructions in the event a plan is placed into receivership.",
+            "Follow instructions in the Sales Compliance communication with what to Specify/Note."
+        ],
+        "SEP Code": "OTH",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "This SEP-LPI is for individuals who are enrolled in a plan that CMS has identified with the low performing icon on Medicare.gov. These individuals will have received a letter from CMS encouraging them to consider another plan since their current plan is a consistently poor performing plan. This SEP exists while the individual is enrolled in the low performing plan.",
+        "Election Period": "Individuals Enrolled in a Consistently Poor Performing Plan",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "",
+        "Notes": [
+            "Enrollment and Sales Compliance will be monitoring usage for any signs of misuse.",
+            "Agents must make a concerted effort to validate the plan is identified as a poor performer and include the plan's contract number in the SEP-OTH field with the words Low Rated Plan.",
+            "For 2025, these Individual contracts are LPI: Aetna H4982 (CA), Meridian H5475 (MI), Wellcare H6713 (IL), Zing H7330, Wellcare H8553 (Southwest), Clear Spring S6946. Group plans Buckeye Health Community Solutions H0724 and Centene Venture Tennessee H2853 are also LPI.",
+            "Enter: LPI and the contract",
+            "Must be actively enrolled in consistently poor performing plan to use SEP."
+        ],
+        "SEP Code": "OTH",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "Effective January 1, 2025, full-benefit dually eligible individuals (FBDE, QMB+ or SLMB+ only) may use the integrated care SEP to enroll, once per month, into a fully integrated dual eligible special needs plan (FIDE SNP), highly integrated dual eligible special needs plan (HIDE SNP), or applicable integrated plan (AIP) AND the affiliated Medicaid Managed Care Organization (MCO). The enrollment proposed coverage effective date is the first of the following month.",
+        "Election Period": "To enroll in FIDE DE-SNP, HIDE DE-SNP, or AIP DE-SNP",
+        "Eligible Plans": "FIDE, HIDE or AIP DE-SNP only",
+        "Example Questions": "",
+        "Notes": [
+            "For CarePlus PY2025, the following are plan enrollments eligible to use SEP-INT: H1019-023, H1019-073, H1019-146",
+            "For Humana PY2025, the following are plan enrollments MAY be eligible to use SEP-INT: H1036-077, H1036-102, H1036-209, H1036-210, H1036-213, H1036-214, H1036-226, H1036-235, H1036-280*, H1036-285, H1036-304, H1036-314, H2875-001, H2875-003, H4007-016, H4007-018, H4007-026, H4007-027, H4007-030, H4007-031, H5216-394, H5216-420, H5525-045, H5619-054, H5619-075, H5619-163, H6622-018, H7284-003, H7284-010",
+            "For Humana iCare Wisconsin: H2237-001, H2237-007",
+            "*Florida FIDE plan can only be enrolled via paper application and by a small set of Career agents.",
+            "An Appendix II is on page 17 with a grid of the contract/PBPs, market, geo and the DE-SNP eligibility requirements for the Humana and CarePlus DE-SNPs (HIDE, FIDE, AIP) eligible to use SEP-INT."
+        ],
+        "SEP Code": "INT",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 1,
+        "Dates Available": "",
+        "Description": "SEP-DST exists for individuals affected by a disaster or other emergency declared by a Federal, state or local government entity who were unable to, and did not make an election during another valid election period. Individuals are eligible for this SEP if they meet all three of the requirements: Reside, or resided at the start of the SEP eligibility period, in an area for which a federal, state or local government entity has declared a disaster or other emergency or they do not reside in an affected area but rely on help making healthcare decisions from one or more individuals who reside in an affected area; and Were eligible for another valid election period at the time of the incident period; and Did NOT make an election during that other valid election period due to the incident.",
+        "Election Period": "Government Entity-Declared Disaster or Other Emergency",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "",
+        "Notes": [],
+        "SEP Code": "DST",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 0,
+        "Dates Available": "",
+        "Description": "These SEPs begin with the submission of the application for premium-Part A and Part B, or for Part B only. It continues for the first two (2) months from the premium-Part A and/or Part B entitlement date.",
+        "Election Period": "Exceptional Condition Enrollment of Premium-Part A and/or Part B",
+        "Eligible Plans": "MA (CSP), MAPD or PDP (DSP)",
+        "Example Questions": "",
+        "Notes": [
+            "NOT for use by any telesales agent",
+            "SEP only for use via paper application; requires inclusion of CMS approval documentation.",
+            "CMS pre-approval required"
+        ],
+        "SEP Code": "CSP/DSP",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 0,
+        "Dates Available": "",
+        "Description": "This SEP-RET is for an individual who has not been provided with the opportunity to enroll in a plan during their ICEP/IEP, perhaps due to administrative delays. These individuals will have a SEP to enroll in a plan that begins the month the individual receives the notice of the Medicare entitlement retroactive determination and continues for two (2) additional months after the month the notice is provided. The enrollment proposed coverage effective date is the first of the following month.",
+        "Election Period": "Retroactive Entitlement",
+        "Eligible Plans": "MA, MAPD or PDP",
+        "Example Questions": "",
+        "Notes": [
+            "NOT for use by any telesales agent",
+            "SEP only for use via paper application; requires inclusion of CMS approval documentation.",
+            "CMS pre-approval required"
+        ],
+        "SEP Code": "RET",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 0,
+        "Dates Available": "",
+        "Description": "On a case-by-case basis, CMS established SEP-SAN if CMS sanctions a plan sponsor and an enrollee disenrolls in connection with the matter that gave rise to that sanction to enroll in a different plan. The start/length of the SEP, as well as the effective date, is dependent upon the situation.",
+        "Election Period": "Enroll/Disenroll in connection with CMS Sanction",
+        "Eligible Plans": "",
+        "Example Questions": "",
+        "Notes": [
+            "Only CMS can process",
+            "NOT for Agent Use",
+            "CMS has to process the enrollment"
+        ],
+        "SEP Code": "SAN",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 0,
+        "Dates Available": "",
+        "Description": "On a case-by-case basis, SEP-VIO is available and begins once CMS determines that a violation has occurred. The length of the SEP will depend on whether the individual immediately enrolls in a new plan upon disenrollment from the original plan. If no plan is chosen immediately after the SEP is granted, then the individual has 90 days to elect a new plan. CMS may process a retroactive disenrollment in some cases. The individual may choose an effective date of enrollment in a new plan beginning any of the three months after the month in which the plan sponsor receives the enrollment request.",
+        "Election Period": "Contract Violations",
+        "Eligible Plans": "",
+        "Example Questions": "",
+        "Notes": [
+            "Only CMS can process",
+            "NOT for Agent Use",
+            "CMS has to process the enrollment"
+        ],
+        "SEP Code": "VIO",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 0,
+        "Dates Available": "",
+        "Description": "Individuals who are not adequately informed of a loss of creditable coverage, or that they never had creditable coverage, have an SEP-CRE to enroll in a plan. The SEP permits one enrollment on a case-by-case basis. This SEP begins the month of CMS approval of this SEP and continues for two (2) additional months following this approval.",
+        "Election Period": "Individuals not adequately informed of loss of creditable coverage",
+        "Eligible Plans": "",
+        "Example Questions": "",
+        "Notes": [
+            "Only CMS can process",
+            "NOT for Agent Use",
+            "CMS has to process the enrollment"
+        ],
+        "SEP Code": "CRE",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 0,
+        "Dates Available": "",
+        "Description": "SEP begins the month the individual receives CMS approval of the SEP and continues for two (2) additional months following this approval. SEP allows enrollment/disenrollment from a PDP on a case-by-case basis.",
+        "Election Period": "Federal employee error causing enrollment or disenrollment in Part D",
+        "Eligible Plans": "PDP",
+        "Example Questions": "",
+        "Notes": [
+            "Only CMS can process",
+            "NOT for Agent Use",
+            "CMS has to process the enrollment"
+        ],
+        "SEP Code": "FED",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 0,
+        "Dates Available": "",
+        "Description": "On a case-by-case basis, CMS will establish a SEP-PRO if CMS determines a network change to be significant. The SEP will be in effect once CMS makes its determination and enrollees have been notified. The SEP begins the month the individual is notified of the network change and continues for two (2) additional months.",
+        "Election Period": "Significant Change in Provider Network",
+        "Eligible Plans": "",
+        "Example Questions": "",
+        "Notes": [
+            "Only CMS can process",
+            "NOT for Agent Use",
+            "CMS has to process the enrollment"
+        ],
+        "SEP Code": "PRO",
+        "Scenarios": [],
+        "Type": "SEP"
+    },
+    {
+        "Available for Agents": 0,
+        "Dates Available": "",
+        "Description": "On a case-by-case basis, CMS established a SEP-OTH for individuals who CMS determines have experienced exceptional circumstances related to enrollments into or disenrollments from an MA plan or Part D plan that are not otherwise captured in regulation and beyond the beneficiary's control. Additionally, established SEP-EXC specific to marketing misrepresentation established by CMS on a case-by-case basis.",
+        "Election Period": "Other Exceptional Circumstances",
+        "Eligible Plans": "MA or Part D",
+        "Example Questions": "",
+        "Notes": [
+            "Only CMS can process",
+            "NOT for Agent Use",
+            "CMS has to process the enrollment"
+        ],
+        "SEP Code": "OTH/EXC",
+        "Scenarios": [],
+        "Type": "SEP"
+    }
+]
